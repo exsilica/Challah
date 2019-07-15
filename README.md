@@ -1,3 +1,3 @@
-# Breads
+# Challah Recipes
 
 TODO: Veganize Challah
