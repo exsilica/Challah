@@ -10,9 +10,9 @@
 **Wet**
 * 1/4 cup coconut oil
 * 3 Tbsp maple syrup
-* 1/3 cup coconut milk
-[//]: # TODO: Move below to Step 1 and heat according to Benstock version
-[//]: # TODO: Experiment with Benstock version's method of adding water during dough mixing instead of before
+* 1/3 cup coconut milk    
+[//]: # TODO: Move below to Step 1 and heat according to Benstock version    
+[//]: # TODO: Experiment with Benstock version's method of adding water during dough mixing instead of before    
 *Combine wet ingredients and whisk, adding water until you have 2 cups of liquid*
 
 1. Put 2 cups flour aside. Put the other 2 cups of flour in the mixer. Mix for one minute and add wet ingredients. Mix at high speed for 3 minutes.
